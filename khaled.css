@@ -60,6 +60,13 @@ header {
     padding: .5rem;
 }
 
+nav ul h1
+{
+    font-family: 'Crete Round',serif;
+    font-size: 45px;
+    color: #444 ; 
+    font-weight: bold;
+}
 
 .img{
     height: 50px;
