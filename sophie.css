@@ -1,17 +1,58 @@
-* {
-    box-sizing: border-box;
 
-}
+/* header */
 
-header nav {
+.container{
     display: flex;
     justify-content:flex-start;
+    align-items: center;
+    
 }
 
+.container-block1{
+
+    display: flex;
+    justify-content: flex-start;
+    float: left;
+    width: 33%;
+
+
+}
+.container-block2{
+
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    width: 67%;
+    color: azure;
+
+
+}
+
+
+li a{
+
+    display: flex;
+    color: #F0F2F4;
+    padding-right: 10px;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+header {
+
+    background-color: rgb(168, 204, 238);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin: 0%;
+    padding: .5rem;
+}
+
+
 .img{
-     
     height: 50px;
     width: 200px;
+    border-radius: 10px;
 
 }
 
@@ -21,60 +62,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f2f2f2;
 }
-/* navigation */
-nav {
-    padding: .5rem;
-    color: white;
-}
 
-nav h1 {
-    font-size: 2rem;
-}
-
-nav h1,
-nav ul {
-    margin: 0;
-}
-
-nav>ul {
-    padding: 0;
-    margin-right: 1rem;
-    list-style: none;
-    font-size: 1.25rem;
-}
-
-nav>ul>li {
-    display: inline-block;
-}
-
-nav>ul>li>a {
-    padding: .25rem;
-    text-decoration: none;
-    color: #fff;
-}
-
-/* header */
-
-.container{
-    display: flex;
-    justify-content:flex-end;
-}
-
-header {
-
-    background-color: black;
-    min-height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top;
-    color: #fff;
-    padding: .5rem;
-}
-
-header h1 {
-    font-size: 3rem;
-    
-}
 
 section {
     padding: .5rem;
@@ -165,7 +153,7 @@ div article iframe {
     display: inline-block;    
 }
 
-@media screen and (min-width:320px) {
+@media screen and (max-width:320px) {
 
     .agences {
         display: flex;
@@ -238,5 +226,58 @@ div article iframe {
         padding: 10px;
         display: inline-block;    
     }
+}
 
+
+/*footer*/
+footer 
+{
+    background-color: #444;
+    text-align:center;
+    height: 250px;
+}
+footer h1
+{
+    padding: 80px 0px 30px 0px;
+    color: #fff;
+    margin: 0px;
+    font-family: 'Crete Round',serif;
+    font-size: 45px;
+}
+footer p
+{
+    font-weight: bold;
+    line-height: 20px;
+    color: #777;
+}
+.follow
+{
+    display: flex;
+    justify-content: center;
+
+}
+.block1
+{
+    float: left;
+    width: 30%;
+}
+.block1 p{
+    width: 100%;
+}
+
+.block2
+
+{
+    float: right;
+    width: 70%;
+    align-items: center;
+}
+.socialm
+{
+    width: 3rem;
+    height: 3rem;
+}
+span
+{
+    color: #0291D8;
 }

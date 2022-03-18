@@ -7,21 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Workshop HTML/CSS Basics</title>
     <link rel="stylesheet" href="sophie.css">
+    <link href="https://fonts.googleapis.com/css?family=cret+Round" rel="stylesheet">
     <script src="https://www.google.com/maps/d/u/0/viewer?t=h&msa=0&ie=UTF8&z=14&source=embed&mid=1tIB6wXpi1xJPaaQ7LKL1c5P1odc&ll=48.58268300000003%2C7.748215000000003"></script>
 </head>
 <body>
     
     <header>  
-        <nav>
-            <img class="img" src="file:///C:/Users/khale/html-css-workshop-basics/Ressource/logoFlexTrip.JPG" alt="logo">
         <nav class="container">
-            <ul>
-                <li><a href="#Accueil">Accueil</a></li>
-                <li><a href="#Reservations">Reservations</a></li>
-                <li><a href="#Contactez-nous">Contactez-nous</a></li>
+            <ul class="container-block1" >
+                <img class="img" src="logoFlexTrip.JPG" alt="logo" class ="block1">
+            </ul>
+            <ul class="container-block2" >
+                <li ><a href="#Accueil">Accueil</a></li>
+                <li ><a href="#Reservations">Reservations</a></li>
+                <li ><a href="#Contactez-nous">Contactez-nous</a></li>
             </ul>
         </nav>
-        </nav> 
     </header>
     <main id="main">
         <section id="agences">
@@ -64,14 +65,17 @@
         </div>
     </main>   
    
-    
-
-
-
-
     <footer>
-        © 2022 wilders
-    </footer>
+        <div class="follow">
+         <div class="block1" >
+             <h1>Flex Trip<span class="orange">.</span></h1>
+             <p>Copyright © Tous droits des wilders réservés.</p>
+
+         </div>
+          
+
+        </div>
+     </footer>
 </body>
 
 </html>
