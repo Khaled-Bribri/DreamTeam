@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project-01</title>
+    <link rel="stylesheet" href="khaled.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" >
+    <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.5/css/bulma.min.css">
+    
+</head>
+
+<body>
+    <header>  
+        <nav class="container">
+            <ul class="container-block1" >
+                <img class="img" src="logoFlexTrip.JPG" alt="logo" class ="block1">
+            </ul>
+            <ul class="container-block2" >
+                <li ><a href="#Accueil">Accueil</a></li>
+                <li ><a href="#Reservations">Reservations</a></li>
+                <li ><a href="#Contactez-nous">Contactez-nous</a></li>
+            </ul>
+        </nav>
+         
+    </header>
+
+
+    <main>
+        <section id="contact">
+            <div class="card-content">
+                <div class="media">
+                    <div class>
+                        <h2 class="title article-title">Contactez-nous</h2>
+                    </div>
+                </div>
+                <div class="content article-body">
+                    <form action="form">
+                        <div class="field">
+                            <label for="Nom" class="label">Nom</label>
+                            <div class="control">
+                                <input id="nom" name="nom" class="input" type="text">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label for="Prenom" class="label">Prenom</label>
+                            <div class="control">
+                                <input id="Prenom" name="Prenom" class="input" type="text">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label for="telephone" class="label">téléphone</label>
+                            <div class="control">
+                                <input id="telephone" name="telephone" class="input" type="text">
+                            </div>
+                        </div>
+                        <div class="field">
+                            <label for="message" class="label">Message</label>
+                            <div class="control">
+                                <textarea id="message" name="message" class="textarea"></textarea>
+                            </div>
+                        </div>
+                        <div class="field">
+                            <div class="control has-text-centered">
+                                <button class="button is-link has-background-alt">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+
+            <div class="displayButon">
+                <div class="control has-text-centered">
+                    <button class="button is-link has-background-alt">Etre rappeler</button>
+                </div>
+                <div class="control has-text-centered">
+                    <button class="button is-link has-background-alt">Prendre un rendez-vous</button>
+                </div>
+            </div>
+        </section>
+
+
+
+    </main>
+
+    <footer>
+        © 2022 wilders
+    </footer>
+</body>
+
+</html>

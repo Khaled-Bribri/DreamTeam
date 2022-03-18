@@ -1,0 +1,139 @@
+:root {
+    --mainColor:#6a9ab1;
+    --secondaryColor:#f5f1e3;
+    --darkColor:#262626;
+    --lightColor:#F0F2F4;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* header */
+
+.container{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    
+}
+
+.container-block1{
+
+    display: flex;
+    justify-content: flex-start;
+    float: left;
+    width: 33%;
+
+
+}
+.container-block2{
+
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    width: 67%;
+    color: azure;
+
+
+}
+
+
+li a{
+
+    display: flex;
+    color: #F0F2F4;
+    padding-right: 10px;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+header {
+
+    background-color: rgb(168, 204, 238);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin: 0%;
+    padding: .5rem;
+}
+
+
+.img{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+html, body {
+    margin: 0;
+    line-height: 1.5;
+    background-color: #f2f2f2;
+    font-size: 14px;
+
+}
+
+.article-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: lighter;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+.media {
+    justify-content: center;
+}
+ 
+
+.media-content {
+    align-items: flex-start;
+    margin-top: 3rem;
+}
+.article, .promo-block {
+    margin-top: 6rem;
+}
+div.column.is-8:first-child {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.articles {
+    margin: 5rem 0;
+
+}
+.articles .content p {
+    line-height: 1.9;
+    margin: 15px 0;
+}  
+
+.article-body {
+    line-height: 1.4;
+    margin: 0 6rem;
+}
+
+.contact {
+    margin: 5rem 0;
+}
+.displayButon{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+button.is-link.has-background-alt,  button.is-link.has-background-alt:hover {
+    margin: 10px;
+    background: var(--secondaryColor) ;
+    color: var(--darkColor);
+
+}
+/*footer*/
+footer {
+    
+    height: 100px;
+    padding: 1rem;
+    background-color: #4444;
+}
