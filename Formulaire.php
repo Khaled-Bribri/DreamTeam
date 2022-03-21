@@ -3,31 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project-01</title>
+   
     <link rel="stylesheet" href="khaled.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" >
-    <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.5/css/bulma.min.css">
-    
 </head>
 
 <body>
-    <header>  
-        <nav class="container">
-            <ul class="container-block1" >
-                <h1>Flex Trip<span class="orange">.</span></h1>
-            </ul>
-            <ul class="container-block2" >
-                <li ><a href="#Accueil">Accueil</a></li>
-                <li ><a href="#Reservations">Reservations</a></li>
-                <li ><a href="formulaire.php">Contactez-nous</a></li>
-            </ul>
-        </nav>
-         
-        </header>
-       
+    
+ 
+    <?php include("Header.php")?>;
 
     <main>
+    
         <section id="contact">
             <div class="card-content">
                 <div class="media">
@@ -69,8 +56,6 @@
                     </form>
                 </div>
             </div>
-
-
             <div class="displayButon">
                 <div class="control has-text-centered">
                     <button class="button is-link has-background-alt">Etre rappelé</button>
@@ -81,20 +66,14 @@
             </div>
         </section>
 
-
-
     </main>
-    <footer>
-        <div class="follow">
-         <div class="block1" >
-             <h1>Flex Trip<span class="orange">.</span></h1>
-             <p>Copyright © Tous droits des wilders réservés.</p>
 
-         </div>
-          
+ 
+      <?php include("Footer.php")?>;
+    
 
-        </div>
-     </footer>
+    
+
 </body>
 
 </html>

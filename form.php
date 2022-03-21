@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project-01</title>
     <link rel="stylesheet" href="khaled.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" >
-    <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.5/css/bulma.min.css">
     
 </head>
 
