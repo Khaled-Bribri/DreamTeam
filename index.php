@@ -17,9 +17,9 @@
                         <p><small>Parfois, un peu d'évasion serait la bienvenue et ferait le plus grand bien !</small></p></div>
   <div id="item-2"><h4>voyage en amoureux</h4>
                         <p><small>voyage de rêve</small></p></div>
-  <div id="item-3"><img src="images/article-image-1.jpg" alt="partez en famille" class="pictures"></div>
-  <div id="item-4"><a href="potes.php"></a> <img src="images/article-image-2.jpg" alt="entre potes" class="pictures"></div>
-  <div id="item-5"><img src="images/voyage en amoureux.jpg" alt="amoureux" class="pictures"></div>
+  <a href="enfamille.php"><div id="item-3"><img src="images/article-image-1.jpg" alt="partez en famille" class="pictures"></div></a>
+  <a href="potes.php"><div id="item-4">  <img src="images/article-image-2.jpg" alt="entre potes" class="pictures"> </div></a>
+  <a href="EnCouple.php"><div id="item-5"><img src="images/voyage en amoureux.jpg" alt="amoureux" class="pictures"></div></a>
   <div id="item-6"><h4>partez en famille</h4>
                         <p>Offrez le meilleur à ceux que vous aimez et partagez des moments fabuleux !</div>
   <div id="item-7"><h4>entre potes</h4>
