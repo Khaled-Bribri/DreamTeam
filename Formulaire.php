@@ -27,30 +27,30 @@
                         <div class="field">
                             <label for="Nom" class="label">Nom</label>
                             <div class="control">
-                                <input id="nom" name="nom" class="input" type="text"placeholder="entrez votre nom">
+                                <input id="nom" name="nom" class="input" type="text"placeholder="Votre nom">
                             </div>
                         </div>
                         <div class="field">
                             <label for="Prenom" class="label"  >Prénom</label>
                             <div class="control">
-                                <input id="Prenom" name="Prenom" class="input" type="text"placeholder="entrez votre Prénom">
+                                <input id="Prenom" name="Prenom" class="input" type="text"placeholder="Votre prénom">
                             </div>
                         </div>
                         <div class="field">
                             <label for="telephone" class="label">Téléphone</label>
                             <div class="control">
-                                <input id="telephone" name="telephone" class="input" type="text"placeholder="entrez numero de Téléphone">
+                                <input id="telephone" name="telephone" class="input" type="text"placeholder="Votre numéro de téléphone">
                             </div>
                         </div>
                         <div class="field">
                             <label for="message" class="label">Message</label>
                             <div class="control">
-                                <textarea id="message" name="message" class="textarea" placeholder="vous pouvez nous laisser un message ici"></textarea>
+                                <textarea id="message" name="message" class="textarea" placeholder="Laissez-nous un message ici"></textarea>
                             </div>
                         </div>
                         <div class="field">
                             <div class="control has-text-centered">
-                                <button class="button is-link has-background-alt">envoyez</button>
+                                <button class="button is-link has-background-alt">Envoyez</button>
                             </div>
                         </div>
                     </form>

@@ -10,12 +10,11 @@
     
     <?php include("Header.php")?>;
     
-    <main id="main">
     
-        <section id="Partez en famille">
-            <h2>Partez en famille</h2>
-        </section>
-        
+
+    <main>
+    <h2 class="h2class">Partez en Famille</h2>
+            
         <div class="grid-enfamille">
               <div class="element2">
             <p> Nos formules "En Famille" sont regroupées autour de 3 thèmes principaux: le camping sauvage, la randonnée en montage et le séjour à la mer. </br>
