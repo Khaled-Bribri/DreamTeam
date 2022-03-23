@@ -13,7 +13,7 @@
         <ul>
                 <li ><a href="index.php">Accueil</a></li>
                 <li ><a href="Formulaire.php">Contactez-nous</a></li>
-                <li ><a href="sophie.php">Nous-rencontrez</a></li>
+                <li ><a href="sophie.php">Nous-rencontrer</a></li>
         </ul>
         </div>
     </header>

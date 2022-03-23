@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Workshop HTML/CSS Basics</title>
+    <title>Project01</title>
     <link rel="stylesheet" href="sophie.css">
     <script src="https://www.google.com/maps/d/u/0/viewer?t=h&msa=0&ie=UTF8&z=14&source=embed&mid=1tIB6wXpi1xJPaaQ7LKL1c5P1odc&ll=48.58268300000003%2C7.748215000000003"></script>
 </head>

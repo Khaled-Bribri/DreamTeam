@@ -2,7 +2,7 @@
 
 .GridHeader{
    display: grid; 
-   background-color: rgb(168, 204, 238); 
+   background-color: rgb(133, 206, 202); 
    grid-template-rows: 1fr;
    grid-template-columns: 1fr 1fr 1fr 1fr;
    gap: 0px;
@@ -68,7 +68,7 @@
 /*footer*/
 footer 
 {
-    background-color: #444;
+    background-color: rgb(5, 83, 88); ;
     height: 400px;
 }
 
