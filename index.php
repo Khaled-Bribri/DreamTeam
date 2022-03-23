@@ -6,6 +6,7 @@
         <title>Flex Trip accueil</title>
     </head>
     <body>
+        
        
         <?php include("Header.php")?>; 
 <h2 class="h2class">ORGANISEZ VOTRE<br><strong>VOYAGE SUR MESURE</strong></h2>
