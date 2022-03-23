@@ -192,6 +192,17 @@ span
     text-align: center;
 }
 
+div ul h3 {
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:20px;
+    color:darkcyan;
+   
+}
+div ul li{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 14px;
+    color: black;
+}
 
 .pclass{
     color: antiquewhite;

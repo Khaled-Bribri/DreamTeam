@@ -11,19 +11,19 @@
         <div id="item-Footer0"><h1>Flex-Trip<span class="orange">.</span></h1></div>
         <div id="item-Footer1"><h2 class="h2footer">Infos</h2>
         <ul class="listefooter">
-                <li>flexTrip.strasbourg@gmail.com</li>
-                <li>numero de telephone: 0148329785</li>
+                <li>flextrip.strasbourg@gmail.com</li>
+                <li>numéro de téléphone: 0388329785</li>
                 <li>flexTrip.paris@gmail.com</li>
-                <li>numero de telephone:019359765</li>
+                <li>numéro de téléphone: 019359765</li>
                 <li>flexTrip.nice@gmail.com</li>
-                <li>numero de telephone: 0136548239</li>
+                <li>numéro de téléphone: 0436548239</li>
                 
             </ul>
     
     </div>
         
         <div id="item-Footer2">
-            <h2 class="h2footer">Nos Meilleures distinations</h2>
+            <h2 class="h2footer">Nos meilleures destinations</h2>
             <ul class="listefooter">
                 <li>Maldives</li>
                 <li>Les grottes de Cacahuamilpa</li>
