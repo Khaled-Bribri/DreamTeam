@@ -102,7 +102,7 @@ section {
     margin: 0 auto;
     max-width: 65ch;
 }
-section h2 {
+.sectionh2 {
     margin: 3rem;
     text-align: center;
     color: #444;
@@ -110,13 +110,13 @@ section h2 {
 
 }
 
-div article h1 {  
+.divarticleh1 {  
     justify-content: center;
     text-align: center;
     
 }
 
-div article p {
+.divarticlep {
     justify-content: center;
     text-align: center;   
 }
@@ -164,13 +164,13 @@ iframe{
     
 }
 
-div ul h1 {
+.divulh1 {
     font-family:Arial, Helvetica, sans-serif; 
     font-size:20px;
     color:darkcyan;
    
 }
-div ul li{
+.divulli{
     font-family:Arial, Helvetica, sans-serif; 
     font-size: 14px;
     color: black;
@@ -178,7 +178,7 @@ div ul li{
 
 
 
-@media screen and (max-width:700px)
+@media screen and (max-width:800px)
 {
 
     .grid-Sophie {
