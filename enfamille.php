@@ -26,26 +26,26 @@
             <div class="element3"><img src="images\camping-en-famille.jpg" alt="camping famille" class="sv_pic"></div>
             <div class="element4"><img src="images\rando famille.jpg" alt="rando famille" class="sv_pic"></div>
             <div class="element5"><img src="images\canaries famille.jpg" alt="mer famille" class="sv_pic"></div>
-            <div class="element6"><ul><h1>Camping sauvage en famille à Tromsö, Norvège <h1>
-                    <li>10 jours en itinérance au départ de Tromsö </li>
-                    <li>Vol Strasbourg - Paris / Paris-Tromsö avec Air Norway</li>
-                    <li>Equipements: location d'un van aménagé avec tout le matériel inclus</li>
-                    <li>Matériel de cuisine et produits fournis ainsi que plusieurs restaurants pré-réservés</li>
-                    <li>Activités organisées: observation des baleines, chien de traineau, aurores boréales, pêche, etc. </li>
+            <div class="element6"><ul><h1 class="divulh1">Camping sauvage en famille à Tromsö, Norvège <h1>
+                    <li class="divulli">10 jours en itinérance au départ de Tromsö </li>
+                    <li class="divulli">Vol Strasbourg - Paris / Paris-Tromsö avec Air Norway</li>
+                    <li class="divulli">Equipements: location d'un van aménagé avec tout le matériel inclus</li>
+                    <li class="divulli">Matériel de cuisine et produits fournis ainsi que plusieurs restaurants pré-réservés</li>
+                    <li class="divulli">Activités organisées: observation des baleines, chien de traineau, aurores boréales, pêche, etc. </li>
 </ul></div>
-            <div class="element7"> <ul><h1>7 jours de randonnée dans le massif de la Vanoise en Haute-Tarentaise <h1>
-                    <li>7 jours en itinérance au départ de Val d'Isère </li>
-                    <li>Train Strasbourg - Bourg-Saint-Maurice et navette jusqu'à la station</li>
-                    <li>6 nuits en refuges de montagne</li>
-                    <li>Accompagnement par un guide certifié</li>
-                    <li>Matériel de trekking fourni</li>
-                    <li>Repas hors-sac + refuges fournis</li>
+            <div class="element7"> <ul><h1 class="divulh1">7 jours de randonnée dans le massif de la Vanoise en Haute-Tarentaise <h1>
+                    <li class="divulli">7 jours en itinérance au départ de Val d'Isère </li>
+                    <li class="divulli">Train Strasbourg - Bourg-Saint-Maurice et navette jusqu'à la station</li>
+                    <li class="divulli">6 nuits en refuges de montagne</li>
+                    <li class="divulli">Accompagnement par un guide certifié</li>
+                    <li class="divulli">Matériel de trekking fourni</li>
+                    <li class="divulli">Repas hors-sac + refuges fournis</li>
                     </ul></div>
-            <div class="element8"> <ul><h1>Semaine all inclusive à Lanzarote, Canaries <h1>
-                    <li>7 jours au Club Med de Lanzarote </li>
-                    <li>Vol Strasbourg-Paris / Paris- Lanzarote</li>
-                    <li>Repas et boissons comprises</li>
-                    <li>Activités organisées: catamaran, visite de l'Ile, excursion à dos de chameau,observation des dauphins, etc. </li>
+            <div class="element8"> <ul><h1 class="divulh1">Semaine all inclusive à Lanzarote, Canaries <h1>
+                    <li class="divulli">7 jours au Club Med de Lanzarote </li>
+                    <li class="divulli">Vol Strasbourg-Paris / Paris- Lanzarote</li>
+                    <li class="divulli">Repas et boissons comprises</li>
+                    <li class="divulli">Activités organisées: catamaran, visite de l'Ile, excursion à dos de chameau,observation des dauphins, etc. </li>
                     </ul></div>
 </div>
        
