@@ -11,19 +11,21 @@
         <div id="item-Footer0"><h1>Flex-Trip<span class="orange">.</span></h1></div>
         <div id="item-Footer1"><h2 class="h2footer">Infos</h2>
         <ul class="listefooter">
+
                 <li>flexTrip.strasbourg@gmail.com</li>
                 <li>strasbourg: 01.48.32.97.85</li>
                 <li>flexTrip.paris@gmail.com</li>
                 <li>Paris:01.90.35.97.65</li>
                 <li>flexTrip.nice@gmail.com</li>
                 <li>Nice: 01.36.54.82.39</li>
+
                 
             </ul>
     
     </div>
         
         <div id="item-Footer2">
-            <h2 class="h2footer">Nos Meilleures distinations</h2>
+            <h2 class="h2footer">Nos meilleures destinations</h2>
             <ul class="listefooter">
                 <li>Maldives</li>
                 <li>Les grottes de Cacahuamilpa</li>

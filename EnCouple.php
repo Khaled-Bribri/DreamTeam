@@ -16,10 +16,12 @@
     <section>
 
                 <div class="grid-encouple">
-            <div id="item-encouple0"><p>Vos vacances à deux sont un moment unique : personnalisez-les ! Avec Flex-Trip, vous avez mille options pour créer le voyage en amoureux qui vous ressemble. Vous voulez partir en circuit organisé tout en gardant votre indépendance ? Optez pour un circuit privé : vous avez le guide et chauffeur rien que pour vous ! En autotour, vous suivez votre circuit en toute liberté au volant de votre véhicule de location.
-                 Si c’est d’un voyage sur mesure dont vous rêvez, nos spécialistes sont à votre disposition pour créer avec vous votre voyage idéal.</p></div>
+            <div id="item-encouple0"><p>Vos vacances à deux sont un moment unique : personnalisez-les ! Avec Flex-Trip, vous avez mille options pour créer le voyage en amoureux qui vous ressemble. <br>
+            Vous voulez partir en circuit organisé tout en gardant votre indépendance ? Optez pour un circuit privé : vous avez le guide et chauffeur rien que pour vous ! <br>
+            En auto-tour, vous suivez votre circuit en toute liberté au volant de votre véhicule de location.
+                 Si c’est un voyage sur mesure dont vous rêvez, nos spécialistes sont à votre disposition pour créer avec vous votre voyage idéal.</p></div>
             <div id="item-encouple1" class="classDiv">
-                <img class="pictures " src="images/img01.jpg" alt="partez en famille" >
+                <img class="pictures "  src="images/img01.jpg" alt="partez en famille" >
                 <h4 class = "pclass ">à partir de 2499€ </h4><br>
             </div>
             <div id="item-encouple2" class="classDiv">
@@ -31,45 +33,39 @@
                 <h4 class = "pclass"> à partir de 1799€ </h4><br> 
             </div>
             <div id="item-encouple4">
-            <h3> <strong>Maldives</strong> <br>
-
-                2 semaines de rêve au Maldives</h3>
-           
+            <h3>2 semaines de rêve au Maldives</h3>
                 <ul>
-                    <li>Vol Strasbourg-Paris / Paris-Malé</li>
-                    <li>7 nuits à Embudu Village Resort 4*</li>
-                    <li>7 nuits à Pearl Sands 5*</li>
-                    <li>Pension complète</li>
-                    <li>Accès au Spa illimité</li>
-                    <li>Plage privée</li>
+                    <li class="divulli">Vol Strasbourg-Paris / Paris-Malé</li>
+                    <li class="divulli" >7 nuits à Embudu Village Resort 4*</li>
+                    <li class="divulli">7 nuits à Pearl Sands 5*</li>
+                    <li class="divulli">Pension complète</li>
+                    <li class="divulli">Accès au Spa illimité</li>
+                    <li class="divulli">Plage privée</li>
                 </ul>
             </div>
             <div id="item-encouple5">
-            <h3>Grèce<br>
-
-            Traversée des Iles Grecques</h3>
-           
+            <h3>Traversée des Iles Grecques</h3>
             <ul>
-                    <li>3 nuits à Santorin, Hotel Paradiso 4*</li>
-                    <li>3 nuits à Mykonos, Resort Blue Marine 4*</li>
-                    <li>3 nuits à Corfou, Happyhotel 4*</li>
-                    <li>Vol Strasbourg- Paris / Paris- Athènes, navettes inclues</li>
-                    <li>Pension complète</li>
-                    <li>Croisières en voilier</li>
-                    <li>Tour de l’île à cheval</li>
+                    <li class="divulli">3 nuits à Santorin, Hotel Paradiso 4*</li>
+                    <li class="divulli">3 nuits à Mykonos, Resort Blue Marine 4*</li>
+                    <li class="divulli">3 nuits à Corfou, Happyhotel 4*</li>
+                    <li class="divulli">Vol Strasbourg- Paris / Paris- Athènes, navettes inclues</li>
+                    <li class="divulli">Pension complète</li>
+                    <li class="divulli">Croisières en voilier</li>
+                    <li class="divulli">Tour de l’île à cheval</li>
 
                 </ul>
                 
             </div>
             <div id="item-encouple6">
-                <h3><strong>Bali</strong><br>Se ressourcer à Ubud</h3>
+                <h3>Se ressourcer à Ubud, Bali</h3>
             <ul>
-                    <li>6 nuits à l’Hôtel Wadari Retreat Villa</li>
-                    <li>Vol Strasbourg – Paris / Paris- Semyniak</li>
-                    <li>Pension complète et petits-déjeuners « love birds »</li>
-                    <li>Visite des temples d’Ubud</li>
-                    <li>Balade en vélo dans les rizières</li>
-                    <li>Spectacle de danse libanaise </li>
+                    <li class="divulli">6 nuits à l’Hôtel Wadari Retreat Villa</li>
+                    <li class="divulli">Vol Strasbourg – Paris / Paris- Semyniak</li>
+                    <li class="divulli">Pension complète et petits-déjeuners « love birds »</li>
+                    <li class="divulli">Visite des temples d’Ubud</li>
+                    <li class="divulli">Balade en vélo dans les rizières</li>
+                    <li class="divulli">Spectacle de danse libanaise </li>
                 </ul>
                 
             </div>

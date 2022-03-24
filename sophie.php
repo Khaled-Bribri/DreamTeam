@@ -13,32 +13,32 @@
     <main id="main">
     
         <section id="agences">
-            <h2>Découvrez nos agences!</h2>
+            <h2 class="sectionh2">Découvrez nos agences!</h2>
         </section>
         <div class="grid-Sophie">
             <div id="item-0sophie">
             <article>
-                <h1>Strasbourg</h1>
-                <p>Hélène Beringer</p>
-                <p> 06.11.22.33.44</p>
-                <p> helene@flextrip.fr</p>
+                <h1 class="divarticleh1">Strasbourg</h1>
+                <p class="divarticlep">Hélène Beringer</p>
+                <p class="divarticlep"> 06.11.22.33.44</p>
+                <p class="divarticlep"> helene@flextrip.fr</p>
             </article>
            
             </div>
             <div id="item-1sophie">
             <article>
-                <h1>Paris</h1>
-                <p>Sylvain Terron</p>
-                <p>06.12.23.34.45</p>
-                <p>sylvain@flextrip.fr</p>
+                <h1 class="divarticleh1">Paris</h1>
+                <p class="divarticlep">Sylvain Terron</p>
+                <p class="divarticlep">06.12.23.34.45</p>
+                <p class="divarticlep"> sylvain@flextrip.fr</p>
             </article>
             </div>
             <div id="item-2sophie">
             <article>
-                <h1>Nice</h1>
-                <p>Justin Brilou</p>
-                <p>06.15.25.30.35</p>
-                <p>justin@flextrip.fr</p>
+                <h1 class="divarticleh1">Nice</h1>
+                <p class="divarticlep">Justin Brilou</p>
+                <p class="divarticlep">06.15.25.30.35</p>
+                <p class="divarticlep">justin@flextrip.fr</p>
             </article>
             </div>
             <div id="item-3sophie"class="googlemaps" >
@@ -57,10 +57,6 @@
             </article>
             </div>
         </div>
-
-
-
-
 
 
        
