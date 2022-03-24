@@ -9,12 +9,18 @@
        
         <?php include("Header.php")?>
 
-<h2 class="h2class"><strong>Partez entre potes</strong><br><br><p>Partez entre potes en toute tranquillité grâce à nos formules personnalisées.<br> Itinérant ou sédentaire, Flex Trip s'adapte à vos demandes, à vos envies et à votre budget!</p></h2>
+<h2 class="h2class"><strong>Partez entre potes</strong><br><br><p class="class_p">Partez entre potes en toute tranquillité grâce à nos formules personnalisées.<br> Itinérant ou sédentaire, Flex Trip s'adapte à vos demandes, à vos envies et à votre budget!</p></h2>
 
-<div class="grid-potes">
-  <div id="road"><img class="yecine_pic" src="/images/road trip.jpg" ></div>
-  <div id="boum"><img class="yecine_pic" src="/images/la boum.jpg"></div>
-  <div id="bateau"><img class="yecine_pic" src="/images/bateau.jpg"></div>
+<div class="grid-potes" >
+    <div id="road" class="classDiv"><img class="yecine_pic" src="/images/road trip.jpg" >
+    <h4 class = "txtclass ">à partir de 2499€ </h4><br>
+  </div>
+    <div id="boum" class="classDiv"><img class="yecine_pic" src="/images/la boum.jpg">
+    <h4 class = "txtclass ">à partir de 2499€ </h4><br>
+    </div>
+    <div id="bateau" class="classDiv"><img class="yecine_pic" src="/images/bateau.jpg">
+    <h4 class = "txtclass ">à partir de 2499€ </h4><br></div>
+
   <div id="text-road">
   <ul>
 

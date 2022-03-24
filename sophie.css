@@ -4,7 +4,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f2f2f2;
 }
-
+.txtclass{
+    color: rgba(214, 16, 59, 0.712);
+    font-size: 25px;
+    position: relative;
+    top: 0px; right: 150px;
+    text-decoration:solid;
+    size: 25px;
+ }
+ 
+ .classDiv{
+ 
+    display: flex;
+    justify-content:center;
+ }
 
 .grid-Sophie {
     display: grid; 
@@ -143,23 +156,33 @@ iframe{
     }
     
 
-    .element2 { grid-area: 1 / 1 / 2 / 4;
+    #element2 { grid-area: 1 / 1 / 2 / 4;
         padding-left:3%;
         padding-right:3%;
         text-align: center;
         height: 10%;
        
     }
-    .element3 { grid-area: 2 / 1 / 3 / 2; }
-    .element4 { grid-area: 2 / 2 / 3 / 3; }
-    .element5 { grid-area: 2 / 3 / 3 / 4; }
-    .element6 { grid-area: 3 / 1 / 4 / 2; }
-    .element7 { grid-area: 3 / 2 / 4 / 3; }
-    .element8 { grid-area: 3 / 3 / 4 / 4; }
+    #element3 { grid-area: 2 / 1 / 3 / 2; 
+    ;
+        text-align: center;
+        margin-left: 15%;}
+     #element4 { grid-area: 2 / 2 / 3 / 3;
+        text-align: center;
+        margin-left: 15%;}
+    #element5 { grid-area: 2 / 3 / 3 / 4; 
+        text-align: center;
+        margin-left: 15%;}
+    #element6 { grid-area: 3 / 1 / 4 / 2; 
+       }
+    #element7 { grid-area: 3 / 2 / 4 / 3; 
+        }
+    #element8 { grid-area: 3 / 3 / 4 / 4;
+         }
 
 .sv_pic{
     height: 300px;
-     width: 470px;
+    width: 470px;
     border-radius: 10px;
     
 }
@@ -203,6 +226,11 @@ iframe{
    text-align:center ;
    
    
+}
+.sv_pic{
+  margin-left: 6%;
+    
+    
 }
 #item-1sophie {
 
@@ -256,6 +284,42 @@ iframe{
    grid-column-end: 2;
    
 }
+
+
+.grid-enfamille {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 12px;
+    height: 100%;
+    
+    
+    }
+    
+
+    #element2 { grid-area: 1 / 1 / 2 / 2;
+        text-align: center;
+        height: 10%;
+        margin-left: 6%;
+       
+    }
+    #element3 { grid-area: 2 / 1 / 3 / 2; 
+ 
+    text-align:center;}
+    #element4 { grid-area: 4 / 1 / 5 / 2; 
+        
+        text-align:center;}
+        #element5 { grid-area: 6 / 1 / 7 / 2;
+    
+        text-align:center; }
+        #element6 { grid-area: 3 / 1 / 4 / 2;
+    
+        text-align:center; }
+     #element7 { grid-area: 5 / 1 / 6 / 2;
+      
+        text-align:center; }
+    #element8 { grid-area: 7 / 1 / 8 / 2; 
+   
+        text-align:center;}
+
 }
-
-

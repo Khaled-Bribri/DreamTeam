@@ -6,7 +6,29 @@ html, body {
    background-color: #f2f2f2;
 
 } 
+span{
+   color: #0291D8;
+}
+
+.class_p{
+
+   font-size: 18px;
+}
  
+.txtclass{
+   color: rgba(214, 16, 59, 0.712);
+   font-size: 25px;
+   position: relative;
+   top: 0px; right: 150px;
+   text-decoration:solid;
+   size: 25px;
+}
+
+.classDiv{
+
+   display: flex;
+   justify-content:center;
+}
  .grid-potes {
     display: grid; 
  
@@ -116,5 +138,92 @@ html, body {
    color: black;
 }
 
-
+@media screen and (max-width:800px)
+{
+ 
+   .grid-potes {
+      display: grid; 
+   
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+      
+      gap: 10px;
+      height: 100%;
+      
+  
+      
+   }
+   .yecine_pic{
+      
+      margin-left: 30%;
+  }
+     
+   #road {
+   
+      
+      grid-row-start: 1;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 2;
+      grid-column-end: 2;
+      height: 20%;
+      
+   }
+   #boum {
+   
+      
+      grid-row-start: 3;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 4;
+      grid-column-end: 2;
+      height: 20%;
+      
+   }
+   #bateau {
+    
+      grid-row-start: 5;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 6;
+      grid-column-end: 2;
+      height: 20%;
+      
+   }
+   #text-road {
+     
+      grid-row-start: 2;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 3;
+      grid-column-end: 2;
+      height: 20%;
+      color: #3B3B3B;
+      
+      
+      
+   }
+   #text-boum {
+    
+      grid-row-start: 4;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 5;
+      grid-column-end: 2;
+      height: 20%;
+      color: #3B3B3B;
+      
+   }
+   #text-bateau {
+    
+      grid-row-start: 6;
+      grid-column-start: 1;
+      text-align: center;
+      grid-row-end: 7;
+      grid-column-end: 2;
+      height: 20%;
+      color: #3B3B3B;
+      
+   }
+}
 

@@ -1,9 +1,12 @@
 /*general */
-p
+.pclass
+
 {
   color: #3B3B3B; 
+  font-size: 18px;
 }
-h4{
+.h4class{
+   font-size: 20px;
    color: #3B3B3B; 
 }
 body {
@@ -62,7 +65,7 @@ span
     text-align: center;
    grid-row-start: 1;
    grid-column-start: 2;
-
+  
    grid-row-end: 2;
    grid-column-end: 3;
    height: 20%;
@@ -75,8 +78,7 @@ span
    
    grid-row-start: 1;
    grid-column-start: 3;
-
-   grid-row-end: 2;
+  grid-row-end: 2;
    grid-column-end: 4;
    height: 20%;
    
