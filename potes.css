@@ -1,11 +1,30 @@
+span
+{
+    color: #0291D8;
+}
+.h2class
+{
+   color: #3B3B3B;
+}
+.parag
+{
+   text-align: center;
+   color: #3B3B3B;
+   margin-bottom: 5rem;
+}
+body {
+    margin: 0;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+}
  .grid-potes {
-    display: grid; 
- 
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
-    
-    gap: 0px;
-    height: 100%;
+   display: grid; 
+
+   grid-template-rows: 1fr 1fr 1fr;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 1px;
+   
     
  }
    
@@ -17,6 +36,7 @@
  
     grid-row-end: 2;
     grid-column-end: 2;
+    height: 20%;
     
  }
  #boum {
@@ -27,6 +47,7 @@
  
     grid-row-end: 2;
     grid-column-end: 3;
+    height: 20%;
     
  }
  #bateau {
@@ -36,6 +57,7 @@
  
     grid-row-end: 2;
     grid-column-end: 4;
+    height: 20%;
     
  }
  #text-road {
@@ -45,6 +67,10 @@
  
     grid-row-end: 3;
     grid-column-end: 2;
+    height: 20%;
+    color: #3B3B3B;
+    
+    
     
  }
  #text-boum {
@@ -54,6 +80,8 @@
  
     grid-row-end: 3;
     grid-column-end: 3;
+    height: 20%;
+    color: #3B3B3B;
     
  }
  #text-bateau {
@@ -63,6 +91,8 @@
  
     grid-row-end: 3;
     grid-column-end: 4;
+    height: 20%;
+    color: #3B3B3B;
     
  }
  .yecine_pic{
@@ -80,3 +110,7 @@
      display: block;
      float: right;
  }
+
+   
+
+  

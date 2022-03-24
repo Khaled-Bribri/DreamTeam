@@ -69,7 +69,7 @@
     </main>
 
  
-      <?php include("Footer.php")?>;
+      <?php include("Footer.php")?>
     
 
     
