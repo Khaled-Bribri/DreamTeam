@@ -1,3 +1,4 @@
+
 html, body {
    margin: 0;
    line-height: 1.5;
@@ -14,6 +15,7 @@ html, body {
     
     gap: 10px;
     height: 100%;
+
     
  }
    
@@ -25,6 +27,7 @@ html, body {
  
     grid-row-end: 2;
     grid-column-end: 2;
+    height: 20%;
     
  }
  #boum {
@@ -35,6 +38,7 @@ html, body {
  
     grid-row-end: 2;
     grid-column-end: 3;
+    height: 20%;
     
  }
  #bateau {
@@ -44,6 +48,7 @@ html, body {
  
     grid-row-end: 2;
     grid-column-end: 4;
+    height: 20%;
     
  }
  #text-road {
@@ -53,6 +58,10 @@ html, body {
  
     grid-row-end: 3;
     grid-column-end: 2;
+    height: 20%;
+    color: #3B3B3B;
+    
+    
     
  }
  #text-boum {
@@ -62,6 +71,8 @@ html, body {
  
     grid-row-end: 3;
     grid-column-end: 3;
+    height: 20%;
+    color: #3B3B3B;
     
  }
  #text-bateau {
@@ -71,6 +82,8 @@ html, body {
  
     grid-row-end: 3;
     grid-column-end: 4;
+    height: 20%;
+    color: #3B3B3B;
     
  }
  .yecine_pic{
@@ -90,6 +103,7 @@ html, body {
      float: right;
  }
 
+
  .divulh1 {
    font-family:Arial, Helvetica, sans-serif; 
    font-size:20px;
@@ -103,4 +117,4 @@ html, body {
 }
 
 
- 
+

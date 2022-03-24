@@ -8,7 +8,7 @@
     <body>
         
        
-        <?php include("Header.php")?>; 
+        <?php include("Header.php")?>
 <h2 class="h2class">ORGANISEZ VOTRE<br><strong>VOYAGE SUR MESURE</strong></h2>
 <div class="angry-grid">
   <div id="item-0"> <h4>En famille</h4>
@@ -29,7 +29,7 @@
 
 </div>
 
-     <?php include("Footer.php")?>;
+     <?php include("Footer.php")?>
         
     </body>
 

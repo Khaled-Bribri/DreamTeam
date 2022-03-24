@@ -11,12 +11,14 @@
         <div id="item-Footer0"><h1>Flex-Trip<span class="orange">.</span></h1></div>
         <div id="item-Footer1"><h2 class="h2footer">Infos</h2>
         <ul class="listefooter">
-                <li>flextrip.strasbourg@gmail.com</li>
-                <li>numéro de téléphone: 0388329785</li>
+
+                <li>flexTrip.strasbourg@gmail.com</li>
+                <li>strasbourg: 01.48.32.97.85</li>
                 <li>flexTrip.paris@gmail.com</li>
-                <li>numéro de téléphone: 019359765</li>
+                <li>Paris:01.90.35.97.65</li>
                 <li>flexTrip.nice@gmail.com</li>
-                <li>numéro de téléphone: 0436548239</li>
+                <li>Nice: 01.36.54.82.39</li>
+
                 
             </ul>
     
@@ -62,6 +64,13 @@
                 </a></li>
             </ul>
         
+        </div>
+        <div id="compagnie" >
+            <ul class="air_f">
+            <li><img class="air" src="/images/emirates.png" ></li>
+            <li><img class="air" src="/images/AirFrance.jpg"></li>
+            <li><img class="air" src="/images/Qatar.png" ></li>
+            </ul>
         </div>
         <div id="item-Footer4"><p>Copyright © Tous droits des wilders réservés.</p></div>
     </div>

@@ -129,7 +129,7 @@ l            'interlocuteur le plus adapté</h3>
     </main>
 
  
-      <?php include("Footer.php")?>;
+      <?php include("Footer.php")?>
     
 
     

@@ -1,8 +1,11 @@
 /* header */
-
+#item-header0 h1
+{
+    color: aliceblue;
+}
 .GridHeader{
    display: grid; 
-   background-color: rgb(133, 206, 202); 
+   background-color: #0B0F53        ; 
    grid-template-rows: 1fr;
    grid-template-columns: 1fr 1fr 1fr 1fr;
    gap: 0px;
@@ -25,6 +28,7 @@
    grid-row-end: 2;
    grid-column-end: 5; 
    font-size: 1.25rem;
+  
 }
 .GridHeader #item-header1 ul{
     text-align: left;
@@ -38,7 +42,7 @@
     }
     .GridHeader #item-header1 ul li   a{
         text-decoration: none;
-        color: #fff;
+        color: #CEC9C9;
     }
 
 
@@ -48,6 +52,8 @@
     border-radius: 10px;
 
 }
+
+
 @media screen and (max-width:500px){
 .GridHeader #item-header1 ul {
         overflow: hidden;
@@ -68,7 +74,7 @@
 /*footer*/
 footer 
 {
-    background-color: rgb(5, 83, 88); ;
+    background-color: #0B0F53 ;
     height: 400px;
 }
 
@@ -81,7 +87,10 @@ footer
    height: 100%;
    
 }
-  
+#item-Footer0 h1
+{
+    color: aliceblue;
+}
 #item-Footer0 {
     font-family:"fantasy";
    grid-row-start: 1;
@@ -100,7 +109,7 @@ footer
    grid-column-end: 2;
    font-weight: bold;
    line-height: 20px;
-   color: #777;
+   color: #B2B2B2;
    
 }
 #item-Footer2 {
@@ -109,7 +118,7 @@ footer
    grid-row-end: 2;
    grid-column-end: 4;
    line-height: 20px;
-   color: #777;
+   color: #B2B2B2;
    
 }
 #item-Footer3 {
@@ -120,7 +129,7 @@ footer
    grid-row-end: 2;
    grid-column-end: 5;
    line-height: 20px;
-   color: #777;
+   color: #B2B2B2;
    
 }
 
@@ -135,7 +144,7 @@ footer
    font-weight: bold;
    line-height: 20px;
    padding-top: 2%;
-   color: #777;
+   color: #B2B2B2;
    display: grid;
    align-items: center;
    text-align: center;
@@ -146,6 +155,7 @@ footer
 .listefooter{
     
     list-style-type: none;
+    padding: 0%;
 
 
 
@@ -165,7 +175,7 @@ footer
 
 
     margin: 3%;
-    color: rgb(243, 237, 237);
+    color: #CEC9C9;
 }
 
 .social_icon{
@@ -197,6 +207,22 @@ a.instagram_lmk:hover svg path.st2{
     fill:url(#SVGID_2_);
 }
 
+.air{
+    display: inline-block;
+    list-style: none;
+    height: 30px;
+    width: 50px;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+.air_f li{
+    list-style: none;
+    display: block;
+    float: right;
+    
+}
 
 
 
