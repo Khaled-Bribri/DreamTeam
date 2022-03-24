@@ -54,7 +54,7 @@
 }
 
 
-@media screen and (max-width:500px){
+@media screen and (max-width:800px){
 .GridHeader #item-header1 ul {
         overflow: hidden;
         list-style-type: disc;
@@ -68,6 +68,9 @@
         text-decoration: none;
         color: #fff;
     }
+    
+
+ 
 }
 
 
@@ -155,17 +158,20 @@ footer
 .listefooter{
     
     list-style-type: none;
-    padding: 0%;
+    padding: 3%;
 
-
+}
+.listefooterlogo{
+    
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-start;
 
 }
 .listefooter li{
     
     list-style-type: none;
     padding-top: 0.2%;
-
-
 
 }
 
@@ -208,12 +214,12 @@ a.instagram_lmk:hover svg path.st2{
 }
 
 .air{
-    display: inline-block;
+    display: flex;
     list-style: none;
     height: 30px;
     width: 50px;
     justify-content: center;
-    flex-direction: column;
+    
     
     
 }
@@ -222,6 +228,96 @@ a.instagram_lmk:hover svg path.st2{
     display: block;
     float: right;
     
+}
+@media screen and (max-width:800px){
+    footer 
+    {
+        padding-left: 20%;
+        text-align: center;
+        background-color: #0B0F53 ;
+        height: 800px;
+        width: 100%;
+    }
+    .Grid-footer{
+    display: grid; 
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr ; 
+    gap: 0px;
+    height: 100%;
+    
+ }
+ #item-Footer0 h1
+ {
+     color: aliceblue;
+ }
+ #item-Footer0 {
+     font-family:"fantasy";
+    grid-row-start: 1;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-column-end: 2;
+    display: grid;
+    align-items: center;
+    text-align: left;
+    padding-left: 30%;
+ }
+ #item-Footer1 {
+    grid-row-start: 2;
+    grid-column-start: 1;
+    font-family:'Segoe UI';
+    grid-row-end: 3;
+    grid-column-end: 2;
+    font-weight: bold;
+    line-height: 20px;
+    color: #B2B2B2;
+    
+ }
+ #item-Footer2 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-column-end: 2;
+    line-height: 20px;
+    color: #B2B2B2;
+    
+ }
+ #item-Footer3 {
+ 
+    margin: 0%;
+    grid-row-start: 4;
+    grid-column-start: 1;
+    grid-row-end: 5;
+    grid-column-end: 2;
+    line-height: 20px;
+    color: #B2B2B2;
+    
+ }
+ 
+ #item-Footer4 {
+ 
+    margin: 0%;
+    grid-row-start: 5;
+    grid-column-start: 1;
+    width: 100%;
+    grid-row-end: 6;
+    grid-column-end: 2;   
+    font-weight: bold;
+    line-height: 20px;
+    padding-top: 2%;
+    color: #B2B2B2;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    padding: 0%;
+    
+ }
+ .listefooterlogo{
+    
+    list-style-type: none;
+    display: flex;
+    justify-content:center
+
+}
 }
 
 

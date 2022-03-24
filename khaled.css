@@ -207,7 +207,7 @@ span
     
 }
 
-div ul h3 {
+.divulh3 {
     font-family:Arial, Helvetica, sans-serif; 
     font-size:20px;
     color:darkcyan;
@@ -220,7 +220,8 @@ div ul h3 {
 }
 
 .pclass{
-    color: antiquewhite;
+    color: rgba(214, 16, 59, 0.712);
+    font-size: 25px;
     position: relative;
     top: 0px; right: 150px;
     text-decoration:solid;

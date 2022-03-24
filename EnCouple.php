@@ -33,7 +33,7 @@
                 <h4 class = "pclass"> à partir de 1799€ </h4><br> 
             </div>
             <div id="item-encouple4">
-            <h3>2 semaines de rêve au Maldives</h3>
+            <h3 class="divulh3">2 semaines de rêve au Maldives</h3>
                 <ul>
                     <li class="divulli">Vol Strasbourg-Paris / Paris-Malé</li>
                     <li class="divulli" >7 nuits à Embudu Village Resort 4*</li>
@@ -44,7 +44,7 @@
                 </ul>
             </div>
             <div id="item-encouple5">
-            <h3>Traversée des Iles Grecques</h3>
+            <h3 class="divulh3">Traversée des Iles Grecques</h3>
             <ul>
                     <li class="divulli">3 nuits à Santorin, Hotel Paradiso 4*</li>
                     <li class="divulli">3 nuits à Mykonos, Resort Blue Marine 4*</li>
@@ -58,7 +58,7 @@
                 
             </div>
             <div id="item-encouple6">
-                <h3>Se ressourcer à Ubud, Bali</h3>
+                <h3 class="divulh3">Se ressourcer à Ubud, Bali</h3>
             <ul>
                     <li class="divulli">6 nuits à l’Hôtel Wadari Retreat Villa</li>
                     <li class="divulli">Vol Strasbourg – Paris / Paris- Semyniak</li>
